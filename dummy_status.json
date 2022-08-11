@@ -1,0 +1,18 @@
+[
+    {
+        "statusid": "STS234",
+        "restaurantid": 1,
+        "productid": 1,
+        "restoname": "Sate Bakar Pak Ali",
+        "restonum": "082124199305",
+        "status": "Disiapkan"
+    },
+    {
+        "statusid": "STS432",
+        "restaurantid": 1,
+        "productid": 2,
+        "restoname": "Sate Bakar Pak Ali",
+        "restonum": "082124199305",
+        "status": "Selesai"
+    }
+]
