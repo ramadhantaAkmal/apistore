@@ -3,27 +3,27 @@
     "title": "PerpusLSP - Codeigniter",
     "description":
         "A library website made with codeigniter framework for LSP assignment task",
-    "url": 'https://github.com/ramadhantaAkmal/perpusLSP',
+    "url": "https://github.com/ramadhantaAkmal/perpusLSP",
   },
   {
     "title": "UGFoodHub - Flutter",
     "description":
         "UGFoodHub is an innovation designed by the Gunadarma UIF (University Innovation Fellow) team created as a form of using technology and care for increasing equity and economic stimulation of SMEs in the environment around Gunadarma University which historically has not had a canteen since its establishment in 1996.",
-    "url": 'https://github.com/ramadhantaAkmal/UGFoodHub',
+    "url": "https://github.com/ramadhantaAkmal/UGFoodHub",
   },
   {
       "title": "flutter-app-bizonacci-tribute - Flutter",
       "description":
           "bizonacci tribute is an app to show wiki about character that is shown in bizonacci youtube videos and also to redirect to youtube video that made by bizonacci",
-      "url": 'https://github.com/ramadhantaAkmal/flutter-app-bizonacci-tribute'},
+      "url": "https://github.com/ramadhantaAkmal/flutter-app-bizonacci-tribute"},
   {
     "title": "KriptoNews - Native Android/Kotlin",
     "description": "is a simple app that will show news about cryptocurrencies",
-    "url": 'https://github.com/ramadhantaAkmal/KriptoNews',
+    "url": "https://github.com/ramadhantaAkmal/KriptoNews",
   },
   {
     "title": "Data Project - Jupyter Notebook",
     "description": "is a collection of all my project about data",
-    "url": 'https://github.com/ramadhantaAkmal/Data-Project',
+    "url": "https://github.com/ramadhantaAkmal/Data-Project",
   },
 ]
