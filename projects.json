@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bali Rent - Flutter",
+    "description":
+        "Bali Rent is an app to help people around Bali rent a cars for their vacation.",
+    "url": "https://github.com/ramadhantaAkmal/bali-rent-project"
+  },
+  {
+    "title": "SMEHub - React.js",
+    "description":
+        "web to make it easier for customer to get MSME information and to promote MSME business",
+    "url": "https://github.com/ramadhantaAkmal/sme-hub"
+  },
+  {
+    "title": "Recipe Box - Node.js, EJS, Express",
+    "description":
+        "Miniproject submission for codeacademy bootcamp purposes",
+    "url": "https://github.com/ramadhantaAkmal/recipe_box"
+  },
+  {
     "title": "PerpusLSP - Codeigniter",
     "description":
         "A library website made with codeigniter framework for LSP assignment task",
