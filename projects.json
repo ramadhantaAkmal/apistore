@@ -1,15 +1,26 @@
 [
   {
+    "title": "ETL Pipeline Capstone Project",
+    "description":
+        "This project demonstrates the creation of an ETL pipeline to process multiple CSV datasets from Kaggle. Using Python and pandas, the data is cleaned, transformed, and consolidated into a single analysis-ready CSV file. All of the program process will be recorded into log files.",
+    "url": "https://github.com/ramadhantaAkmal/etl-pipeline-capstone-project"
+  },
+  {
+    "title": "File To Database Migrator",
+    "description":
+        "A personal project for automating load to postgres database",
+    "url": "https://github.com/ramadhantaAkmal/file-to-database-migrator"
+  },
+  {
+    "title": "Data Science Project - Jupyter Notebook",
+    "description": "is a collection of all my project on data science",
+    "url": "https://github.com/ramadhantaAkmal/Data-Project"
+  },
+  {
     "title": "Bali Rent - Flutter",
     "description":
         "Bali Rent is an app to help people around Bali rent a cars for their vacation.",
     "url": "https://github.com/ramadhantaAkmal/bali-rent-project"
-  },
-  {
-    "title": "SMEHub - React.js",
-    "description":
-        "web to make it easier for customer to get MSME information and to promote MSME business",
-    "url": "https://github.com/ramadhantaAkmal/sme-hub"
   },
   {
     "title": "Recipe Box - Node.js, EJS, Express",
@@ -18,31 +29,9 @@
     "url": "https://github.com/ramadhantaAkmal/recipe_box"
   },
   {
-    "title": "PerpusLSP - Codeigniter",
-    "description":
-        "A library website made with codeigniter framework for LSP assignment task",
-    "url": "https://github.com/ramadhantaAkmal/perpusLSP"
-  },
-  {
     "title": "UGFoodHub - Flutter",
     "description":
         "UGFoodHub is an innovation designed by the Gunadarma UIF (University Innovation Fellow) team created as a form of using technology and care for increasing equity and economic stimulation of SMEs in the environment around Gunadarma University which historically has not had a canteen since its establishment in 1996.",
     "url": "https://github.com/ramadhantaAkmal/UGFoodHub"
   },
-  {
-      "title": "flutter-app-bizonacci-tribute - Flutter",
-      "description":
-          "bizonacci tribute is an app to show wiki about character that is shown in bizonacci youtube videos and also to redirect to youtube video that made by bizonacci",
-      "url": "https://github.com/ramadhantaAkmal/flutter-app-bizonacci-tribute"
-  },
-  {
-    "title": "KriptoNews - Native Android/Kotlin",
-    "description": "is a simple app that will show news about cryptocurrencies",
-    "url": "https://github.com/ramadhantaAkmal/KriptoNews"
-  },
-  {
-    "title": "Data Project - Jupyter Notebook",
-    "description": "is a collection of all my project about data",
-    "url": "https://github.com/ramadhantaAkmal/Data-Project"
-  }
 ]
