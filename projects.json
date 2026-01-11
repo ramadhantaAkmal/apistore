@@ -1,5 +1,29 @@
 [
   {
+    "title": "ETL Datalakehouse for job vacancy data",
+    "description":
+        "An ETL pipeline for ingesting job vacancy data from Google Jobs search section using SerpAPI as the source data, Minio as data lake, Apache Iceberg as table format, polars for transformation, docker as the environment, Airflow as the workflow scheduler, Trino for query engine and Superset for dashboard. This project also utilizing n8n for making Agentic AI workflow that can handle data extraction and also for reporting top 3 relevant jobs based on my CV and will send it to my Discord channel.",
+    "url": "https://github.com/ramadhantaAkmal/datalakehouse-etl"
+  },
+  {
+    "title": "Ecommerce data stream + ELT batch pipeline project and a fraud detector",
+    "description":
+        "This project is to demonstrate a combination of stream pipeline and ELT pipelining using Google Cloud Pub/Sub, BigQuery, dbt, Airflow and Python.",
+    "url": "https://github.com/ramadhantaAkmal/ecommerce-batch-streaming-pipeline"
+  },
+  {
+    "title": "ELT Pipeline and Data Warehouse Modeling using Airflow, Postgres, dbt and BigQuery",
+    "description":
+        "This project is to demonstrate ELT data pipeline project that utilized Dbt and BigQuery for data warehouse creatioon, Airflow for workflow scheduler, Postgres for source database and python as the main language.",
+    "url": "https://github.com/ramadhantaAkmal/ELT-pipeline-project"
+  },
+  {
+    "title": "Retail ETL Pipeline with Spark and PostgreSQL",
+    "description":
+        "This project implements an ETL (Extract, Transform, Load) pipeline using Apache Spark to process retail data and load it into a PostgreSQL data warehouse. The pipeline reads user, product, and transaction data, transforms it, and stores the results in a fact_sales table in a PostgreSQL database. The entire setup runs in Docker containers for easy deployment.",
+    "url": "https://github.com/ramadhantaAkmal/etl-with-spark"
+  },
+  {
     "title": "ETL Pipeline Capstone Project",
     "description":
         "This project demonstrates the creation of an ETL pipeline to process multiple CSV datasets from Kaggle. Using Python and pandas, the data is cleaned, transformed, and consolidated into a single analysis-ready CSV file. All of the program process will be recorded into log files.",
