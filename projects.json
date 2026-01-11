@@ -39,23 +39,5 @@
     "title": "Data Science Project - Jupyter Notebook",
     "description": "is a collection of all my project on data science",
     "url": "https://github.com/ramadhantaAkmal/Data-Project"
-  },
-  {
-    "title": "Bali Rent - Flutter",
-    "description":
-        "Bali Rent is an app to help people around Bali rent a cars for their vacation.",
-    "url": "https://github.com/ramadhantaAkmal/bali-rent-project"
-  },
-  {
-    "title": "Recipe Box - Node.js, EJS, Express",
-    "description":
-        "Miniproject submission for codeacademy bootcamp purposes",
-    "url": "https://github.com/ramadhantaAkmal/recipe_box"
-  },
-  {
-    "title": "UGFoodHub - Flutter",
-    "description":
-        "UGFoodHub is an innovation designed by the Gunadarma UIF (University Innovation Fellow) team created as a form of using technology and care for increasing equity and economic stimulation of SMEs in the environment around Gunadarma University which historically has not had a canteen since its establishment in 1996.",
-    "url": "https://github.com/ramadhantaAkmal/UGFoodHub"
   }
 ]
